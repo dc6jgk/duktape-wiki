@@ -50,6 +50,7 @@ Welcome to the official Duktape Wiki!
 ## Frequently asked questions
 
 * [Development setup for developing Duktape](DevelopmentSetup.md)
+* [Troubleshooting basics](TroubleshootingBasics.md)
 * [Internal and external prototype](InternalExternalPrototype.md)
 * [API C types](ApiCTypes.md)
 * [Post-ES5 features](PostEs5Features.md)
@@ -79,6 +80,7 @@ Welcome to the official Duktape Wiki!
 * [Duktape 2.0.0 performance measurement](Performance200.md)
 * [Duktape 2.1.0 performance measurement](Performance210.md)
 * [Duktape 2.2.0 performance measurement](Performance220.md)
+* [Duktape 2.3.0 performance measurement](Performance230.md)
 
 ## Low memory optimization
 
